@@ -1,2 +1,9 @@
 # Words-Counter
-Simple Words Counter.
+
+### How To Run :
+
+The only step is to : Run "Main.py"
+
+Or use .exe version :)
+
+### Created By : Pale-Hacker
